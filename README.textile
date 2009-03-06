@@ -1,0 +1,42 @@
+h1. MD Character Count
+
+Add a customizable character count to CP publish form fields in the ExpressionEngine control panel. (Textareas, text inputs and MD Markitup fields)
+
+h2. Info
+
+Developed by Ryan Masuga, http://masugadesign.com
+
+Inspired by Andrew Weaver's Character Count extension.
+
+Docs: "MD Character Count":http://www.masugadesign.com/the-lab/scripts/md-character-count/ <br />
+EE Extension Info: http://expressionengine.com/docs/development/extensions.html
+
+Also see the "related forum thread at the EE Forums":http://expressionengine.com/forums/viewthread/96988/.
+
+h2. Changelog
+
+
+*1.0.4 (Nov 14, 2008)*
+
+* File cleanup
+
+1.0.3
+
+* Text format string fix
+
+1.0.2
+
+* Adding Markitup support, add setting for text format, CP jQuery check
+
+1.0.1
+
+* Updated field group input box to display current number settings
+* Update field dropdown box to correctly show current settings as selected.
+* Updated hard/soft entry jquery extension to display true or false values.
+* Set to only output required fields in dynamic build of jquery strings.
+
+1.0.0
+
+* Initial release.
+* MSM Aware
+* Works With LG Addon Updater
